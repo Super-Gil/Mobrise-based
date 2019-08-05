@@ -1,2 +1,3 @@
 # Mobrise-based
 Mobrise-based project
+This is a website built using Mobrise - mainly for personal use...
